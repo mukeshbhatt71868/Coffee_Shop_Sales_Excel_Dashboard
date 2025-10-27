@@ -11,21 +11,21 @@ To visualize and interpret key performance metrics, customer behavior, and produ
 📊 Dashboard Components
 
 1. Top-Level Metrics
-- Total Sales: $10,422.11
-- Average Order per Person: 1.41
-- Average Bill per Person: $4.72
+- Total Sales
+- Average Order per Person
+- Average Bill per Person
 These KPIs offer a quick snapshot of overall performance and customer spending behavior.
 2. Sales by Hour (Line Chart)
 - Displays hourly product order trends.
 - Peak activity observed around 10 AM, indicating optimal time for promotions and staffing.
 3. Product Consumption Breakdown (Pie Chart)
 - Distribution of product categories:
-- Coffee: 42%
-- Tea: 29%
-- Barley: 12%
-- Drinking Chocolate: 11%
-- Caffeine: 4%
-- Other: 2%
+- Coffee
+- Tea
+- Barley
+- Drinking Chocolate
+- Caffeine
+- Other
 - Helps in understanding customer preferences and optimizing inventory.
 4. Sales by Location (Bar Chart)
 - Performance comparison across store locations:
@@ -33,7 +33,7 @@ These KPIs offer a quick snapshot of overall performance and customer spending b
 - Useful for location-specific marketing and resource allocation.
 5. Monthly Sales Trends (Bar Chart)
 - Tracks revenue from January to June.
-- Highest sales in April (~$2,400), lowest in June (~$500).
+- Highest sales, lowest sales.
 - Supports seasonal planning and forecasting.
 6. Top-Selling Products (Bar Chart)
 - Highlights best-performing items:
@@ -41,7 +41,7 @@ These KPIs offer a quick snapshot of overall performance and customer spending b
 - Informs product placement and promotional strategies.
 7. Sales by Weekday (Bar Chart)
 - Reveals daily performance:
-- Sunday is the highest-grossing day (~$2,400).
+- Sunday is the highest-grossing day.
 - Useful for scheduling staff and running weekday-specific offers.
 8. Calendar View
 - Visual reference for tracking sales activity by day and month.
